@@ -1,3 +1,0 @@
-file '/sdcard/all_clips/night_city/Akira (14).mp4'
-file '/sdcard/all_clips/night_city/Cowboy Bebop - The Movie (1).mp4'
-file '/sdcard/all_clips/night_city/Akira (14).mp4'
